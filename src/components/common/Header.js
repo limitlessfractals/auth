@@ -31,5 +31,4 @@ const styles = {
 };
 
 // Make the component available to other parts of the app
-// change to {} when using index
 export { Header };
